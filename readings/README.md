@@ -28,18 +28,6 @@
 
 ---
 
-## Research Papers
-
-### General Medical Data Analytics
-1. Miotto, R., Wang, F., Wang, S., Jiang, X., & Dudley, J. T. (2018). "Deep learning for healthcare: Review, opportunities, and challenges." *Briefings in Bioinformatics*. [DOI:10.1093/bib/bbx044](https://doi.org/10.1093/bib/bbx044)
-2. Obermeyer, Z., & Emanuel, E. J. (2016). "Predicting the Future—Big Data, Machine Learning, and Clinical Medicine." *New England Journal of Medicine*. [DOI:10.1056/NEJMp1606181](https://doi.org/10.1056/NEJMp1606181)
-
-### Python-Specific Applications
-1. Raschka, S., & Mirjalili, V. (2017). "Python Machine Learning." Practical implementations of machine learning techniques in healthcare.
-2. Johnson, A. E. W., Pollard, T. J., Shen, L., et al. (2016). "MIMIC-III, a freely accessible critical care database." *Scientific Data*. [DOI:10.1038/sdata.2016.35](https://doi.org/10.1038/sdata.2016.35)
-
----
-
 ## Websites and Online Resources
 
 ### Python Basics
@@ -58,8 +46,7 @@
 
 ### Machine Learning for Medicine
 1. [Scikit-learn Documentation](https://scikit-learn.org/stable/) - Python's machine learning library.
-2. [TensorFlow for Healthcare](https://www.tensorflow.org/resources/healthcare) - Tutorials for AI in healthcare.
-3. [PyTorch Medical Applications](https://pytorch.org/ecosystem/) - Libraries for deep learning in medical data.
+2. [PyTorch Medical Applications](https://pytorch.org/ecosystem/) - Libraries for deep learning in medical data.
 
 ---
 
